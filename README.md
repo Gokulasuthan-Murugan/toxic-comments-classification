@@ -27,28 +27,28 @@ Data Source => [kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classifica
 ##### 2.Checking for duplicates and Null values
 
 ## EDA(Exploratory Data analysis)
-##### visualizing text data in our dataset
-##### Using Barchart to visualize the occurance of the text
-##### world cloud 
+##### 1.visualizing text data in our dataset
+##### 2.Using Barchart to visualize the occurance of the text
+##### 3.world cloud 
 
 ## Data Cleaning 
-#### Data cleaning using regular expression
-#### stemming (we'll ===> we will)
+#### 1.Data cleaning using regular expression
+#### 2.stemming (we'll ===> we will)
 
 ## Handling imbalance
-#### we have only less no of toxic comments
-#### oversampling the minority class using smote 
+#### 1.we have only less no of toxic comments
+#### 2.oversampling the minority class using smote 
 
 ## Model Building 
-#### ANN(Artificial Neural Networks)
-#### optimizer(Adam)
-#### loss(binary_cross_entropy)
-#### Dropout regularzation
+#### 1.ANN(Artificial Neural Networks)
+#### 2.optimizer(Adam)
+#### 3.loss(binary_cross_entropy)
+#### 4.Dropout regularzation
 
 ## model Evaluation
-#### Classification report 
-#### Confusion matrix
-#### Sample predictions 
+#### 1.Classification report 
+#### 2.Confusion matrix
+#### 3.Sample predictions 
 
 ## conclusion
 In this project, we successfully developed a Toxic Comment Classification Model using Artificial Neural Networks (ANN) to effectively identify and classify comments that are toxic, abusive, or harmful in nature. Our model demonstrated promising results in accurately categorizing various types of toxic comments, highlighting the potential of neural networks in natural language processing tasks.
